@@ -28,9 +28,7 @@ float *fx;
 float Smin, Smax;
 int N;
 
-
 int main() {
-
     Tab();
     cout << endl;
     random_array();
