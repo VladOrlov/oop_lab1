@@ -3,4 +3,4 @@ project(oop_lab1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(oop_lab1 source.cpp)
+add_executable(oop_lab1 source.cpp TextTable.h)
